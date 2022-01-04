@@ -53,3 +53,36 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.third-part{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-dev{
+    border-image:linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    border-left: 5px solid;
+}
+#junior-dev{
+    border-image:linear-gradient(green, rgb(0, 255, 76));
+    border-image-slice: 1;
+    border-left: 5px solid;
+}
+footer p{
+    text-align: center;
+}
