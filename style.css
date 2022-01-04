@@ -47,3 +47,9 @@ section{
     width: 70%;
     padding-left: 13%;
 }
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
